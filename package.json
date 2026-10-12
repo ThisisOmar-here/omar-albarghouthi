@@ -1,0 +1,36 @@
+{
+  "name": "omar-albarghouthi",
+  "version": "1.0.0",
+  "description": "Omar Albarghouthi's terminal business card. Run: npx omar-albarghouthi",
+  "bin": {
+    "omar-albarghouthi": "bin/card.js"
+  },
+  "files": [
+    "bin/card.js"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "start": "node bin/card.js",
+    "static": "node bin/card.js --static"
+  },
+  "keywords": [
+    "card",
+    "business-card",
+    "npx",
+    "cli",
+    "ai-engineer",
+    "omar-albarghouthi"
+  ],
+  "author": "Omar Albarghouthi <omarbarghouti505@gmail.com> (https://github.com/ThisisOmar-here)",
+  "homepage": "https://github.com/ThisisOmar-here/omar-albarghouthi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisisOmar-here/omar-albarghouthi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThisisOmar-here/omar-albarghouthi/issues"
+  },
+  "license": "MIT"
+}
